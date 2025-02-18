@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**QuantumAlpha** is a quantitative finance project that combines machine learning and finance to generate actionable trading signals (alpha) and optimize portfolio performance. The project uses deep learning models, such as Long Short-Term Memory (LSTM), to predict stock price trends and create portfolios based on these predictions. It also includes a robust backtesting framework to evaluate portfolio performance over time and compare it to a market benchmark (the S&P 500 index).
+**QuantumAlpha** is a quantitative finance project that combines machine learning and finance to generate actionable trading signals (alpha) and optimize portfolio performance. The project uses deep learning models, such as Long Short-Term Memory (LSTM), to predict stock price trends and create portfolios based on these predictions. It also includes a robust backtesting framework to evaluate portfolio performance over time and compare it to a market benchmark (S&P 500 index).
 
 ## Project Flow
 
